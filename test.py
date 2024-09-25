@@ -1,2 +1,2 @@
 # Print statement
-print("By world")
+print("By friends")
